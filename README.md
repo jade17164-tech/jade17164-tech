@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B0D10,100:0B0D10&height=170&section=header&text=jade17164-tech&fontSize=40&fontColor=F5A623&fontAlignY=50&desc=Student%20Developer%20%C2%B7%20AI%2FFintech%20Hackathon%20Prototypes&descAlignY=72&descSize=15&descColor=8B9099" width="100%"/>
+# jade17164-tech
+
+**Student Developer · AI/Fintech Hackathon Prototypes**
 
 </div>
 
@@ -29,17 +31,8 @@
 | [flappy-bird-game](https://github.com/jade17164-tech/flappy-bird-game) | Canvas와 WebAudio만으로 만든 단일 HTML 파일 플래피 버드 게임 | HTML5 Canvas |
 | 대중교통 환승 최적화 앱 *(진행 중)* | 생성형 AI 기반 실시간 환승 정보 최적화 — 기말 프로젝트, 웹 → 모바일 앱으로 확장 예정 | — |
 
-### Stats
-
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=jade17164-tech&show_icons=true&hide_border=true&bg_color=0B0D10&title_color=F5A623&icon_color=F5A623&text_color=C7CACF" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jade17164-tech&layout=compact&hide_border=true&bg_color=0B0D10&title_color=F5A623&text_color=C7CACF" height="165"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B0D10,100:0B0D10&height=60&section=footer" width="100%"/>
+<sub>jade17164-tech</sub>
 
 </div>
